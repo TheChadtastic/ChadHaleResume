@@ -1,0 +1,49 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h2 {
+    text-align: left;
+    margin-bottom: 0px;
+
+}
+
+h4 {
+    text-align: left;
+    margin-bottom: 0px;
+    padding-bottom: 0px;
+}
+
+p {
+    margin-top: 5px;
+}
+
+.left-aligned {
+    float: left;
+}
+
+.right-aligned {
+    float: right;
+}
+
+.center-aligned {
+    text-align: center;
+}
+
+.job-company-name-attribute {
+    font-weight: bold;
+    font-size: 19px;
+}
+
+.job-title-attribute {
+    margin-bottom: 2px;
+    margin-left: 30px;
+    font-style: italic;
+    font-size: 17px;
+}
+
+.job-role-description-attribute {
+    margin-bottom: 4px;
+    margin-left: 60px;
+    font-size: 15px;
+}
